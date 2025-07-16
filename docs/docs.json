@@ -326,6 +326,7 @@
             "group": "Basenames",
             "pages": [
               "smart-wallet/basenames/basenames-faq",
+              "smart-wallet/basename-transfer",
               "smart-wallet/basenames/basenames-onchainkit-tutorial",
               "smart-wallet/basenames/basenames-wagmi-tutorial"
             ]
