@@ -4,11 +4,11 @@ slug: /basename-transfer
 description: 'Step-by-step guide for Base App users to transfer their Basenames to new a wallet addresses.'
 ---
 
-# Basename Transfer Guide for Base App Users
+# Basename Transfer Guide
 
 ## Transferring Your Basename to Your New Wallet
 
-As a Base App user, you'll need to transfer your existing Basename to your new wallet address. Don't worry—we've made this process straightforward, and your new wallet address is already copied to your clipboard.
+If you have an existing Basename you'd like to use, you'll need to transfer it to your new wallet address. We do not allow import or linking of pre-existing Basenames without transfer at this time.
 
 ### Before You Start
 
@@ -86,7 +86,3 @@ If you encounter any issues during the transfer process, make sure:
 - You're completing all four transactions in the sequence
 
 Your Basename will be fully functional on your new wallet once the transfer and primary name setup are complete.
-
----
-
-For general Basename questions, see the [Basenames FAQ](/tools/basenames-faq).
